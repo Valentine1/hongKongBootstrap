@@ -5,11 +5,14 @@
 /tmp
 /out-tsc
 
+
+
 # dependencies
 node_modules
 
 # IDEs and editors
 yarn.lock
+package-lock.json
 /.idea
 .project
 .classpath
